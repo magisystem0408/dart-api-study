@@ -1,6 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+//検索バーのコンポーネント
+
 class Serch extends StatelessWidget {
 
   final ValueChanged onSearch;
